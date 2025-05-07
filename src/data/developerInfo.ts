@@ -6,7 +6,7 @@ import ProjectSrc3 from "../assets/developer/projects/3.png";
 
 export const developerInfo: TDeveloperInfo = {
   username: "denysdev1",
-  name: "Denis Kleimenov",
+  name: "Denys Kleimenov",
   position: "Front-End Developer",
   avatar: AvatarImage,
   socials: {
